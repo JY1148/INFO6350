@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  TakeAPicture
+
+  Created by Jinzhou Yan on 3/13/22.
+  
+ 1. new file--string file
+ 2. file inspector-localize
+ 3. project--general--localizations
+ 4. add string key-value
+*/
+
+"take_pic" = "take a picture";

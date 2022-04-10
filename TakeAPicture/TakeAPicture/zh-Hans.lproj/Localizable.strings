@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  TakeAPicture
+
+  Created by Jinzhou Yan on 3/13/22.
+  
+ 1. new file--string file
+ 2. file inspector-localize
+*/
+
+"take_pic" = "拍照";
